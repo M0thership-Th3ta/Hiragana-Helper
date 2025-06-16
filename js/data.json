@@ -99,6 +99,86 @@
     {
       "english": "I-MA-SU-KA-?",
       "japanese": "いますか"
+    },
+    {
+      "english": "A-KE-TE-KU-DA-SA-I",
+      "japanese": "あけてください"
+    },
+    {
+      "english": "GA-KU-SE-I",
+      "japanese": "がくせい"
+    },
+    {
+      "english": "E-I-GO",
+      "japanese": "えいご"
+    },
+    {
+      "english": "YU-K-KU-RI",
+      "japanese": "ゆっくり"
+    },
+    {
+      "english": "SU-MI-MA-SE-N",
+      "japanese": "すみません"
+    },
+    {
+      "english": "CHI-YO-T-TO",
+      "japanese": "ちょっと"
+    },
+    {
+      "english": "KI-YO-U-SHI-TSU",
+      "japanese": "きょうしつ"
+    },
+    {
+      "english": "SHI-TSU-RE-I",
+      "japanese": "しつれい"
+    },
+    {
+      "english": "YA-SU-MI-MA-SU",
+      "japanese": "やすみます"
+    },
+    {
+      "english": "JI-YU-GI-YO-U",
+      "japanese": "じゅぎょう"
+    },
+    {
+      "english": "KU-DA-SA-I",
+      "japanese": "ください"
+    },
+    {
+      "english": "NI-HO-N-GO",
+      "japanese": "にほんご"
+    },
+    {
+      "english": "I-MI",
+      "japanese": "いみ"
+    },
+    {
+      "english": "KA-KI-MA-SHI-YO-U",
+      "japanese": "かきましょう"
+    },
+    {
+      "english": "HA-JI-ME-MA-SHI-TE",
+      "japanese": "はじめまして"
+    },
+    {
+      "english": "MO-U-I-CHI-DO",
+      "japanese": "もういちど"
+    },
+    {
+      "english": "O-NA-MA-E-WA-?",
+      "japanese": "おなまえは"
+    },
+    {
+      "english": "A-NO-U",
+      "japanese": "あのう"
+    },
+    {
+      "english": "YA-MA-DA-SA-N",
+      "japanese": "やまださん"
+    },
+    {
+      "english": "KI-YO-U-SHI",
+      "japanese": "きょうし"
     }
   ]
 }
